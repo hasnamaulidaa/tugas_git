@@ -1,5 +1,5 @@
 <?php
 echo "Mari belajar Github!";
-$nama = "Hasna Maulida & intan tasqiya";
+$nama = "Hasna ";
 echo "<br>Halo, " . $nama . "!";
 ?>
